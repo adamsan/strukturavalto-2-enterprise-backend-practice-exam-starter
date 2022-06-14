@@ -1,6 +1,6 @@
 # Vonat
 Egy vonatokat és hozzájuk tartozó vagonokat nyilvántartó alkalmazást kell készítened. 
-A vonatoka és a vagonokat relációs adatbázisban kell tárolni. A tesztek futatásához elöször létre kell
+A vonatokat és a vagonokat relációs adatbázisban kell tárolni. A tesztek futatásához elöször létre kell
 hoznod az Entity-ket és Dto-at **fontos**, hogy a megadott package-ben hozd őket létre!),
 majd implementálnod kell a meghatározott API végpontokat.
 
