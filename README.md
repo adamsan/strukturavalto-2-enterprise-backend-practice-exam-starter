@@ -46,7 +46,7 @@ Train train
 ## Endpointok
 - Post `/train` TrainDto json-t vár a body-ban. lementi az adott vonatot. 
 - Post `/train/addWagon` TrainWagonDto json-t vár a body-ban. A dto alapján vagont add a vonathoz.
-- Get  `train/{id}` megkeresi az adott id-jű vonatot és Train jsonként adja vissza. pl:
+- Get  `/train/{id}` megkeresi az adott id-jű vonatot és Train jsonként adja vissza. pl:
 `
 {
 "id": "ABCD",

@@ -1,5 +1,9 @@
 package com.codecool.train;
 
+import com.codecool.train.entity.*;
+import com.codecool.train.dto.TrainDto;
+import com.codecool.train.dto.TrainWagonDto;
+import com.codecool.train.dto.WagonDto;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
